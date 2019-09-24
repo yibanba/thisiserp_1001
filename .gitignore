@@ -1,0 +1,14 @@
+# OSX metadata & Windows junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea
+nbproject
+.vscode
+
+# Configuration files with possibly sensitive information
+wp-config.php
+.htaccess
+
+/demo/wp-content/plugins/*
