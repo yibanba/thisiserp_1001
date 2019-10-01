@@ -12,3 +12,5 @@ wp-config.php
 .htaccess
 
 /demo/wp-content/plugins/*
+!/demo/wp-content/plugins/nbzhang
+
